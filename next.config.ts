@@ -1,7 +1,13 @@
-import type { NextConfig } from "next";
+const nextConfig = {
+  output: "export",
 
-const nextConfig: NextConfig = {
-  /* config options here */
+  basePath: "/rajat_king",
+  assetPrefix: "/rajat_king/",
+
+  images: {
+    unoptimized: true,
+  },
+  devIndicators: false,
 };
 
-export default nextConfig;
+module.exports = nextConfig;
