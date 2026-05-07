@@ -92,7 +92,7 @@ export default function Footer() {
               <ContactItem icon={<Phone size={14} />} text="+91 76520 93533" />
               <ContactItem
                 icon={<Mail size={14} />}
-                text="info@rajatking.com"
+                text="rkv16790@gmail.com"
               />
               <ContactItem
                 icon={<MapPin size={14} />}

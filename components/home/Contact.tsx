@@ -55,15 +55,15 @@ export default function Contact() {
               icon={<Phone className="text-green-600" size={24} />}
               title="Call Us"
               detail="+91 76520 93533"
-              subDetail="Mon - Sat, 9am - 7pm"
+              subDetail="Always at your service"
               href="tel:+917652093533"
             />
             <InfoCard
               icon={<Mail className="text-green-600" size={24} />}
               title="Email Us"
-              detail="info@rajatking.com"
+              detail="rkv16790@gmail.com"
               subDetail="Expect a reply in 24h"
-              href="mailto:info@rajatking.com"
+              href="mailto:rkv16790@gmail.com"
             />
             <InfoCard
               icon={<MapPin className="text-green-600" size={24} />}
