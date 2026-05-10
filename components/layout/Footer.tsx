@@ -122,7 +122,7 @@ export default function Footer() {
               RAJAT KING
             </span>
             <span className="mx-1 text-slate-500">|</span>
-            FOOD PRODUCTS PVT LTD.
+            FOOD PRODUCTS RASHMI ENTERPRISES PVT LTD.
           </p>
 
           {/* Enhanced Heart Section - Perfectly Readable */}
