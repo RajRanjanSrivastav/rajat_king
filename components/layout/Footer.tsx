@@ -15,7 +15,6 @@ import {
 export default function Footer() {
   const currentYear = new Date().getFullYear();
 
-  // Animation Variants
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
